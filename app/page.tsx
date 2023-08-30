@@ -143,7 +143,7 @@ export default function Home() {
         <br />
         Antananarivo 101 Madagascar
         <br />
-        tsiresymila@mail.com
+        tsiresymila@gmail.com
         <br />
         +261342083574
       </p>
